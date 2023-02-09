@@ -21,7 +21,7 @@ Maintainers must not necessarily be persons with development experience. They ac
 
 ```Take note that it is still up to development team's discretion what gets attention since Linux has to plan carefully how to spend its very limited resources.```
 
-##Participate in release process:
+## Participate in release process:
 Ideally you attend to the release meetings that usually happen four times a year about a month before release date (end of February, May, August, November). On that occasion you are given the chance to point out critical issues with your board.
 
 However, while the meeting participation is optional you "must sign-off that device has been tested, is stable, and ready for release during release process". This basically means you take the RC-images we provide and test them as best as you can for their functionality hardware-wise:

@@ -65,7 +65,7 @@ Low priority issues are usually attended to and patched by the community. If the
 * TON Storage daemon
 * dApps & Bots
 * Oracles
-* TON Veri
+* TON Verificator
 * TON DNS
 * TON Proxy
 * TON DEX

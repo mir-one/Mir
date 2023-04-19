@@ -47,14 +47,14 @@ Take note that the building process takes quite a while so you might be faster u
 
 * Do not let that wording intimidate you. This is not a complicated task. Regarding forums this can include things like answering obvious questions (for example by pointing to our documentation, ideally directly to the solution page), let the questioner know that additional information is needed for further debugging (e.g. request "tonmonitor -u" output) or for upgrade issues, ask if they can recreate the issue with a fresh untouched image from: https://www.github.com/mir-one/mir
 
-If you need additional direction on dealing with an issue contact [Roman](https://github.com/inozemtsev-roman) on the Telegram.
+If you need additional direction on dealing with an issue [a space for suggestions and discussion of bugs in MIR products]([https://github.com/inozemtsev-roman](https://github.com/mir-one/issues)) on the Telegram/Github/Provider.
 You must provide "best effort" support in Telegram:
 
 Review submitted issues for you board made by MIR contributors
 
 For upgrade issues, ask if they can recreate the issue with a fresh untouched image from: https://www.github.com/mir-one/mir
 
-If you have questions, concerns or are not sure about something, you can tag the issue for Roman to review Telegram:
+If you have questions, concerns or are not sure about something, you can tag the issue for [Support](https://t.me/ton_mir_bot) to review Telegram:
 
 Low priority issues are usually attended to and patched by the community. If the issue has existed for more than a release, you can create a Telegram ticket for it. However the expectation is the issue will be low priority and may not be processed for some time. Issues such as, but not limited to, should be considered low priority:
 
